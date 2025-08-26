@@ -14,8 +14,8 @@ ymaps.ready(function () {
 
             // Инициализация карты
             const myMap = new ymaps.Map("map", {
-                center: [55.76, 37.64], // Начальные координаты
-                zoom: 7, // Начальный уровень зума
+                center: [59.9343, 30.3351], // Центр Санкт-Петербурга
+                zoom: 10, // Уровень зума
                 controls: [searchControls]
             });
 
@@ -41,7 +41,7 @@ ymaps.ready(function () {
                 clusterIconLayout: "default#pieChart"
             });
 
-            // Массив координат для расчета границ
+            // Массив координат для расчета границ (оставляем, но не используем)
             let minLatitude = Infinity, maxLatitude = -Infinity;
             let minLongitude = Infinity, maxLongitude = -Infinity;
 
@@ -68,7 +68,8 @@ ymaps.ready(function () {
             // Добавляем objectManager на карту
             myMap.geoObjects.add(objectManager);
 
-            // Устанавливаем границы карты вручную
+            // 👉 Блок с setBounds закомментирован, центр всегда СПб
+            /*
             if (minLatitude !== Infinity && maxLatitude !== -Infinity &&
                 minLongitude !== Infinity && maxLongitude !== -Infinity) {
                 const bounds = [
@@ -76,8 +77,9 @@ ymaps.ready(function () {
                     [maxLatitude, maxLongitude]   // Высшая точка
                 ];
                 myMap.setBounds(bounds, {
-                    checkZoomRange: true  // Устанавливаем зум в зависимости от объема данных
+                    checkZoomRange: true
                 });
             }
+            */
         });
 });
