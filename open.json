@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": -2830197312633222280,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.036357,
+                    59.850988
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">13770 () - </span><span style=\"font-size: 14px;\">ИП Иванов Д. А.</span><span style=\"font-size: 18px; color: green;\"> - С- 9, Н- 7</span><br><span style=\"font-size: 14px;\">Санкт-Петербург Город, Санкт-Петербург г., Стрельна п., Фронтовая ул., д. 3</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">13770 () - </span><span style=\"font-size: 14px;\">ИП Иванов Д. А.</span><span style=\"font-size: 18px; color: green;\"> - С- 9, Н- 7</span><br><span style=\"font-size: 14px;\">Санкт-Петербург Город, Санкт-Петербург г., Стрельна п., Фронтовая ул., д. 3</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">13770 () - </span><span style=\"font-size: 14px;\">ИП Иванов Д. А.</span><span style=\"font-size: 18px; color: green;\"> - С- 9, Н- 7</span><br><span style=\"font-size: 14px;\">Санкт-Петербург Город, Санкт-Петербург г., Стрельна п., Фронтовая ул., д. 3</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -3404677504172469416,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329814,
+                    59.882442
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">9991 (63154) - </span><span style=\"font-size: 14px;\">ООО \"Автодиагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 0</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Санкт-Петербург г., Рощинская ул., д.9 лит.В</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">9991 (63154) - </span><span style=\"font-size: 14px;\">ООО \"Автодиагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 0</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Санкт-Петербург г., Рощинская ул., д.9 лит.В</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">9991 (63154) - </span><span style=\"font-size: 14px;\">ООО \"Автодиагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 0</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Санкт-Петербург г., Рощинская ул., д.9 лит.В</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8161314968001733708,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.393288,
+                    60.064347
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">14323 (83879) - </span><span style=\"font-size: 14px;\">ООО \"Автотехосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">Ленинградская обл., Всеволожский м.р-н, Бугровское с.п..п Бугры, Петровский б-р, стр.35, к.2</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">14323 (83879) - </span><span style=\"font-size: 14px;\">ООО \"Автотехосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">Ленинградская обл., Всеволожский м.р-н, Бугровское с.п..п Бугры, Петровский б-р, стр.35, к.2</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">14323 (83879) - </span><span style=\"font-size: 14px;\">ООО \"Автотехосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">Ленинградская обл., Всеволожский м.р-н, Бугровское с.п..п Бугры, Петровский б-р, стр.35, к.2</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21600741009765634,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.238083,
+                    60.042119
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">15339 () - </span><span style=\"font-size: 14px;\">ООО \"Автотехэксперт\"</span><span style=\"font-size: 18px; color: green;\"> - С- 7, Н- 3</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, ул. Парашютная, уч.36 (юго-западнее дома 57, литера Я по Заповедной улице)</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">15339 () - </span><span style=\"font-size: 14px;\">ООО \"Автотехэксперт\"</span><span style=\"font-size: 18px; color: green;\"> - С- 7, Н- 3</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, ул. Парашютная, уч.36 (юго-западнее дома 57, литера Я по Заповедной улице)</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">15339 () - </span><span style=\"font-size: 14px;\">ООО \"Автотехэксперт\"</span><span style=\"font-size: 18px; color: green;\"> - С- 7, Н- 3</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, ул. Парашютная, уч.36 (юго-западнее дома 57, литера Я по Заповедной улице)</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8732293930257493915,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.368127,
+                    59.888159
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">2113 () - </span><span style=\"font-size: 14px;\">ООО \"АВТОЭКСПЕРТ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 8, Н- 1</span><br><span style=\"font-size: 14px;\">192102, г Санкт-Петербург, ул Бухарестская, д. 22, корп. 2, лит. А</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">2113 () - </span><span style=\"font-size: 14px;\">ООО \"АВТОЭКСПЕРТ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 8, Н- 1</span><br><span style=\"font-size: 14px;\">192102, г Санкт-Петербург, ул Бухарестская, д. 22, корп. 2, лит. А</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">2113 () - </span><span style=\"font-size: 14px;\">ООО \"АВТОЭКСПЕРТ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 8, Н- 1</span><br><span style=\"font-size: 14px;\">192102, г Санкт-Петербург, ул Бухарестская, д. 22, корп. 2, лит. А</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8114721633881516760,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.55062,
+                    59.753337
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">9761 () - </span><span style=\"font-size: 14px;\">ООО \"Арженвет\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">196650 Санкт-Петербург г., Колпино г., Финляндская ул., д.30., к.1., стр.2</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">9761 () - </span><span style=\"font-size: 14px;\">ООО \"Арженвет\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">196650 Санкт-Петербург г., Колпино г., Финляндская ул., д.30., к.1., стр.2</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">9761 () - </span><span style=\"font-size: 14px;\">ООО \"Арженвет\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">196650 Санкт-Петербург г., Колпино г., Финляндская ул., д.30., к.1., стр.2</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5534995371865302157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.120212,
+                    59.842889
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">11260 (77303) - </span><span style=\"font-size: 14px;\">ООО \"ГТОцентр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 2</span><br><span style=\"font-size: 14px;\">198206 Санкт-Петербург г., Санкт-Петербург г., Петергофское ш., д.74., к.2., литера.Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">11260 (77303) - </span><span style=\"font-size: 14px;\">ООО \"ГТОцентр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 2</span><br><span style=\"font-size: 14px;\">198206 Санкт-Петербург г., Санкт-Петербург г., Петергофское ш., д.74., к.2., литера.Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">11260 (77303) - </span><span style=\"font-size: 14px;\">ООО \"ГТОцентр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 2</span><br><span style=\"font-size: 14px;\">198206 Санкт-Петербург г., Санкт-Петербург г., Петергофское ш., д.74., к.2., литера.Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1851866391926975435,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.470089,
+                    59.960097
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">10012 (65128) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика Авто\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 5</span><br><span style=\"font-size: 14px;\">195030 Санкт-Петербург г., Санкт-Петербург г., Потапова ул., д.2., литера.Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">10012 (65128) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика Авто\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 5</span><br><span style=\"font-size: 14px;\">195030 Санкт-Петербург г., Санкт-Петербург г., Потапова ул., д.2., литера.Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">10012 (65128) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика Авто\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 5</span><br><span style=\"font-size: 14px;\">195030 Санкт-Петербург г., Санкт-Петербург г., Потапова ул., д.2., литера.Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6901230379512356728,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.363317,
+                    59.97918
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">11069 (69711) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">194100 Санкт-Петербург г., Санкт-Петербург г., Литовская ул., д.16., литера.Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">11069 (69711) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">194100 Санкт-Петербург г., Санкт-Петербург г., Литовская ул., д.16., литера.Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">11069 (69711) - </span><span style=\"font-size: 14px;\">ООО \"Диагностика-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 1</span><br><span style=\"font-size: 14px;\">194100 Санкт-Петербург г., Санкт-Петербург г., Литовская ул., д.16., литера.Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2562675667762192372,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.364696,
+                    59.88716
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">6556 (35731) - </span><span style=\"font-size: 14px;\">ООО \"НАП\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 4</span><br><span style=\"font-size: 14px;\">192102 Санкт-Петербург г., Бухарестская ул., д.22, к.3., лит.Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">6556 (35731) - </span><span style=\"font-size: 14px;\">ООО \"НАП\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 4</span><br><span style=\"font-size: 14px;\">192102 Санкт-Петербург г., Бухарестская ул., д.22, к.3., лит.Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">6556 (35731) - </span><span style=\"font-size: 14px;\">ООО \"НАП\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 4</span><br><span style=\"font-size: 14px;\">192102 Санкт-Петербург г., Бухарестская ул., д.22, к.3., лит.Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2877668412092471454,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.999,
+                    59.88175
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">12577 () - </span><span style=\"font-size: 14px;\">ООО \"КАДЦ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 1</span><br><span style=\"font-size: 14px;\">187342 Ленинградская обл., Кировский р-н., Кировск г., Ладожская ул., д.5б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">12577 () - </span><span style=\"font-size: 14px;\">ООО \"КАДЦ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 1</span><br><span style=\"font-size: 14px;\">187342 Ленинградская обл., Кировский р-н., Кировск г., Ладожская ул., д.5б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">12577 () - </span><span style=\"font-size: 14px;\">ООО \"КАДЦ\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 1</span><br><span style=\"font-size: 14px;\">187342 Ленинградская обл., Кировский р-н., Кировск г., Ладожская ул., д.5б</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7996492491602662722,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.335599,
+                    59.903061
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">1990 () - </span><span style=\"font-size: 14px;\">ООО \"Полюс\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Черниговская ул., д.14., лит.А</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">1990 () - </span><span style=\"font-size: 14px;\">ООО \"Полюс\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Черниговская ул., д.14., лит.А</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">1990 () - </span><span style=\"font-size: 14px;\">ООО \"Полюс\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 4</span><br><span style=\"font-size: 14px;\">196084 Санкт-Петербург г., Черниговская ул., д.14., лит.А</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 823587693957338883,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607884,
+                    59.752837
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">12485 (85810) - </span><span style=\"font-size: 14px;\">ООО \"Сто-Питер\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 0</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., вн. тер. г. Санкт-Петербурга, г. Колпино, ул. Культуры, д.21, стр.1</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">12485 (85810) - </span><span style=\"font-size: 14px;\">ООО \"Сто-Питер\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 0</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., вн. тер. г. Санкт-Петербурга, г. Колпино, ул. Культуры, д.21, стр.1</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">12485 (85810) - </span><span style=\"font-size: 14px;\">ООО \"Сто-Питер\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 0</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., вн. тер. г. Санкт-Петербурга, г. Колпино, ул. Культуры, д.21, стр.1</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -3702396726192562698,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.282223,
+                    59.891854
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">8909 (56264) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр СПб\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Маршала Говорова ул.,д.3, лит А, пом.3-Н-8-Н, 26-Н-40-Н,</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">8909 (56264) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр СПб\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Маршала Говорова ул.,д.3, лит А, пом.3-Н-8-Н, 26-Н-40-Н,</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">8909 (56264) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр СПб\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Маршала Говорова ул.,д.3, лит А, пом.3-Н-8-Н, 26-Н-40-Н,</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5213500372959010540,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.439493,
+                    59.97766
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">15106 (85524) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 7</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, пр-кт Екатерининский, д.3, литера Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">15106 (85524) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 7</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, пр-кт Екатерининский, д.3, литера Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">15106 (85524) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр\"</span><span style=\"font-size: 18px; color: green;\"> - С- 3, Н- 7</span><br><span style=\"font-size: 14px;\">Город Санкт-Петербург., г. Санкт-Петербург, пр-кт Екатерининский, д.3, литера Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4946273939123086029,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.449998,
+                    59.928316
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">10425 (65142) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 8</span><br><span style=\"font-size: 14px;\">193318 Санкт-Петербург г., Санкт-Петербург г., Ванеева ул., д.10., литера.А</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">10425 (65142) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 8</span><br><span style=\"font-size: 14px;\">193318 Санкт-Петербург г., Санкт-Петербург г., Ванеева ул., д.10., литера.А</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">10425 (65142) - </span><span style=\"font-size: 14px;\">ООО \"Техосмотр-78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 1, Н- 8</span><br><span style=\"font-size: 14px;\">193318 Санкт-Петербург г., Санкт-Петербург г., Ванеева ул., д.10., литера.А</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -36937709931123985,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.359158,
+                    59.984463
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">15352 () - </span><span style=\"font-size: 14px;\">ООО \"ТО78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 6, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Полюстровский пр-кт., д.74., лит.Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">15352 () - </span><span style=\"font-size: 14px;\">ООО \"ТО78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 6, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Полюстровский пр-кт., д.74., лит.Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">15352 () - </span><span style=\"font-size: 14px;\">ООО \"ТО78\"</span><span style=\"font-size: 18px; color: green;\"> - С- 6, Н- 1</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Полюстровский пр-кт., д.74., лит.Б</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1331071884746012074,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.304707,
+                    59.826089
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">9486 (59896) - </span><span style=\"font-size: 14px;\">ООО \"ФортаПолис\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">196240 Санкт-Петербург г., 6-й Предпортовый проезд., дом 10., литера Б</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">9486 (59896) - </span><span style=\"font-size: 14px;\">ООО \"ФортаПолис\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">196240 Санкт-Петербург г., 6-й Предпортовый проезд., дом 10., литера Б</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">9486 (59896) - </span><span style=\"font-size: 14px;\">ООО \"ФортаПолис\"</span><span style=\"font-size: 18px; color: green;\"> - С- 0, Н- 1</span><br><span style=\"font-size: 14px;\">196240 Санкт-Петербург г., 6-й Предпортовый проезд., дом 10., литера Б</span>"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4455995513280728298,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.312851,
+                    60.050298
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">15424 () - </span><span style=\"font-size: 14px;\">ООО \"Центр ДК\"</span><span style=\"font-size: 18px; color: green;\"> - С- 10, Н- 10</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Хошимина ул., д.1., лит.А</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">15424 () - </span><span style=\"font-size: 14px;\">ООО \"Центр ДК\"</span><span style=\"font-size: 18px; color: green;\"> - С- 10, Н- 10</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Хошимина ул., д.1., лит.А</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">15424 () - </span><span style=\"font-size: 14px;\">ООО \"Центр ДК\"</span><span style=\"font-size: 18px; color: green;\"> - С- 10, Н- 10</span><br><span style=\"font-size: 14px;\">Санкт-Петербург г., Хошимина ул., д.1., лит.А</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1104618464006642566,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.406148,
+                    60.069766
+                ]
+            },
+            "properties": {
+                "clusterCaption": "<span style=\"font-size: 18px; color: red;\">11983 () - </span><span style=\"font-size: 14px;\">ООО \"Эксперт-Диагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 3</span><br><span style=\"font-size: 14px;\">188660 Ленинградская обл., Всеволожский р-н., Бугры п., Гаражный проезд., д.1</span>",
+                "balloonContentBody": "",
+                "balloonContentHeader": "<span style=\"font-size: 18px; color: red;\">11983 () - </span><span style=\"font-size: 14px;\">ООО \"Эксперт-Диагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 3</span><br><span style=\"font-size: 14px;\">188660 Ленинградская обл., Всеволожский р-н., Бугры п., Гаражный проезд., д.1</span>",
+                "hintContent": "<span style=\"font-size: 18px; color: red;\">11983 () - </span><span style=\"font-size: 14px;\">ООО \"Эксперт-Диагностика\"</span><span style=\"font-size: 18px; color: green;\"> - С- 2, Н- 3</span><br><span style=\"font-size: 14px;\">188660 Ленинградская обл., Всеволожский р-н., Бугры п., Гаражный проезд., д.1</span>"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        }
+    ]
+}
